@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NEU/2022Spring/CS5520/CS5520_finalProject/CS5520_finalProject/app/src/main/res/layout/activity_comment.xml" value="0.23020833333333332" />
+        <entry key="..\:/NEU/2022Spring/CS5520/CS5520_finalProject/CS5520_finalProject/app/src/main/res/layout/activity_followers.xml" value="0.28020833333333334" />
+        <entry key="..\:/NEU/2022Spring/CS5520/CS5520_finalProject/CS5520_finalProject/app/src/main/res/layout/activity_login.xml" value="0.23385416666666667" />
+        <entry key="..\:/NEU/2022Spring/CS5520/CS5520_finalProject/CS5520_finalProject/app/src/main/res/layout/activity_main.xml" value="0.28020833333333334" />
+        <entry key="..\:/NEU/2022Spring/CS5520/CS5520_finalProject/CS5520_finalProject/app/src/main/res/layout/activity_post.xml" value="0.23385416666666667" />
+        <entry key="..\:/NEU/2022Spring/CS5520/CS5520_finalProject/CS5520_finalProject/app/src/main/res/layout/activity_start.xml" value="0.28020833333333334" />
+        <entry key="..\:/NEU/2022Spring/CS5520/CS5520_finalProject/CS5520_finalProject/app/src/main/res/layout/agree_dialog.xml" value="0.23020833333333332" />
+        <entry key="..\:/NEU/2022Spring/CS5520/CS5520_finalProject/CS5520_finalProject/app/src/main/res/layout/fragment_find.xml" value="0.23020833333333332" />
+        <entry key="..\:/NEU/2022Spring/CS5520/CS5520_finalProject/CS5520_finalProject/app/src/main/res/layout/user_item.xml" value="0.28020833333333334" />
+        <entry key="..\:/NEU/2022Spring/CS5520/PetAmigo v5/CS5520_finalProject/CS5520_finalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1005" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_add.xml" value="0.2355" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_comment.xml" value="0.2195" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_liked.xml" value="0.1895" />
+        <entry key="app/src/main/res/drawable-mdpi/button_background.xml" value="0.219" />
+        <entry key="app/src/main/res/drawable-mdpi/edit_text_background.xml" value="0.219" />
+        <entry key="app/src/main/res/layout/activity_comment.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_cropper.xml" value="0.4661458333333333" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_followers.xml" value="0.4083333333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20805184184641076" />
+        <entry key="app/src/main/res/layout/activity_post.xml" value="0.4661458333333333" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_start.xml" value="0.27211365876374416" />
+        <entry key="app/src/main/res/layout/comment_item.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/fragment_find.xml" value="0.17065887451171866" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.3946469956550045" />
+        <entry key="app/src/main/res/layout/fragment_fourth.xml" value="0.22871376811594202" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.39676186381906703" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.33589250719225083" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.3160644531249999" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_third.xml" value="0.22871376811594202" />
+        <entry key="app/src/main/res/layout/fre_search.xml" value="0.265625" />
+        <entry key="app/src/main/res/layout/movie.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/photo_item.xml" value="0.4083333333333333" />
+        <entry key="app/src/main/res/layout/post_item.xml" value="0.34087677001953126" />
+        <entry key="app/src/main/res/layout/user_item.xml" value="0.3285451253255208" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

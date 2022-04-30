@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419966931506",
+    "firebase_url": "https://petamigo-da539-default-rtdb.firebaseio.com",
+    "project_id": "petamigo-da539",
+    "storage_bucket": "petamigo-da539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419966931506:android:21e726f1e0e7db63ae222b",
+        "android_client_info": {
+          "package_name": "com.example.petamigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419966931506-bba8acrop5sa4hba6mqgfl9h66or2pgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyECtqj4_pp31ZmluAQZ3vuSewO0eizzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419966931506-bba8acrop5sa4hba6mqgfl9h66or2pgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
